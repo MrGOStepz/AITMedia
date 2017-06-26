@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Web Developer Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService", "WebService\WebService.csproj", "{0174C9B8-B90D-433D-86A0-CF152DAA6A41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "..\BusinessLogic\BusinessLogic.csproj", "{541DB66B-CC13-4FAD-88B1-42A20E92F14C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "..\DataAccessLayer\DataAccessLayer.csproj", "{30484B73-AFBA-4A26-9CAE-6C886AA82CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0174C9B8-B90D-433D-86A0-CF152DAA6A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0174C9B8-B90D-433D-86A0-CF152DAA6A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0174C9B8-B90D-433D-86A0-CF152DAA6A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0174C9B8-B90D-433D-86A0-CF152DAA6A41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541DB66B-CC13-4FAD-88B1-42A20E92F14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541DB66B-CC13-4FAD-88B1-42A20E92F14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541DB66B-CC13-4FAD-88B1-42A20E92F14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541DB66B-CC13-4FAD-88B1-42A20E92F14C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30484B73-AFBA-4A26-9CAE-6C886AA82CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30484B73-AFBA-4A26-9CAE-6C886AA82CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30484B73-AFBA-4A26-9CAE-6C886AA82CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30484B73-AFBA-4A26-9CAE-6C886AA82CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
